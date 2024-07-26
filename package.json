@@ -1,0 +1,23 @@
+{
+  "name": "hive-sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@aave/periphery-v3": "^2.5.2",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
